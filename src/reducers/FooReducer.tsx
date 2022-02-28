@@ -8,8 +8,6 @@ export const fooSlice = createSlice({
     initialState: {value: initialValue},
     reducers: {
         changeAll: (state, action) => {
-            console.log(action.payload)
-            console.log(state.value)
             state.value = action.payload;
         },
         agePlusOne: (state, action) => {
