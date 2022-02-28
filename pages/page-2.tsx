@@ -10,8 +10,8 @@ const Home: NextPage = () => {
 
   return (
     <main>
-      <Link href="/page-2">Switch Page</Link>
-      <h1>Page 1</h1>
+      <Link href="/">Switch Page</Link>
+      <h1>Page 2</h1>
 
       <p>{foo.name}</p>
       <p>{foo.age}</p>
@@ -21,8 +21,8 @@ const Home: NextPage = () => {
       }}>Plus One</button>
 
       <button onClick={() => {
-        dispatch(changeAll({ name:'Bob', age:44 }));
-      }}>Set Bob</button>
+        dispatch(changeAll({ name:'Chris', age:38 }));
+      }}>Set Chris</button>
 
     </main>
   )
