@@ -1,6 +1,6 @@
 ## NextJs Redux Example
 
-This project is an accompanying repository to a Redux tutorial I wrote on [my blog.](https://dev.to/)
+This project is an accompanying repository to a Redux tutorial I wrote on [my blog.](https://dev.to/ozcap/the-best-redux-tutorial-the-latest-way-57a0)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
